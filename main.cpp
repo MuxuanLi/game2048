@@ -342,7 +342,7 @@ int main()
         intro(); 
         char ch;
         ch = getch(); 
-        if (ch == 13) 
+        if (ch == 13 && ch == 10) 
         {
             full(); 
             full();
