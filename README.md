@@ -10,3 +10,4 @@ When all 16 squares are full and you can no longer slide, the game is over!
 Click【ENTER】to start the game
 Click【ESC】to exit the game
 ***********************************************************
+[click to play]([url](https://replit.com/@Noobhacker70156/2048#main.cpp))
